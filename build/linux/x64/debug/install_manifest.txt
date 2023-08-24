@@ -1,0 +1,12 @@
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/mytodoapp
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/nain/Desktop/MyTodoApps/mytodoapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
